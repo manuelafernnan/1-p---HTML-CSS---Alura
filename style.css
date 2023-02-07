@@ -1,0 +1,52 @@
+body{
+    background-color:#000000;
+    color: #F6F6F6;
+    font: 16px Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+span{
+    color:#22D4FD;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    
+}
+
+#right-one{
+    margin: 20px;
+}
+
+#text-one{
+    text-align: left;
+}
+
+.anc-social{
+    padding: 20px;
+}
+.anc-social a{
+    padding: 15px 30px;
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    background:#22D4FD;
+	border-radius: 6px;
+	height: 50px;
+	width: 100px;
+}
+
+.anc-social a:hover{
+    background:  #F6F6F6;
+    color: black;
+}
+
+img{
+    width: 300px;
+    margin: 30px;
+}
